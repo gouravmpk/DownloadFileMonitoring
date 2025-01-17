@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Yz/6PfD63rg=",
+  "success": true,
+  "projectFilePath": "/Users/gourav/RiderProjects/DownloadFileMontioring/DMS/DMS.csproj",
+  "expectedPackageFiles": [
+    "/Users/gourav/.nuget/packages/elastic.clients.elasticsearch/8.17.1/elastic.clients.elasticsearch.8.17.1.nupkg.sha512",
+    "/Users/gourav/.nuget/packages/elastic.transport/0.5.7/elastic.transport.0.5.7.nupkg.sha512",
+    "/Users/gourav/.nuget/packages/elasticsearch.net/7.17.5/elasticsearch.net.7.17.5.nupkg.sha512",
+    "/Users/gourav/.nuget/packages/microsoft.csharp/4.6.0/microsoft.csharp.4.6.0.nupkg.sha512",
+    "/Users/gourav/.nuget/packages/system.buffers/4.5.1/system.buffers.4.5.1.nupkg.sha512",
+    "/Users/gourav/.nuget/packages/system.diagnostics.diagnosticsource/5.0.0/system.diagnostics.diagnosticsource.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
